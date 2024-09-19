@@ -1,16 +1,17 @@
 # Servlet_JSP
-## Working of a Servlet
+# Working of a Servlet
 ![](assets/image.png)
 
-## Servlet Lifecycle Methods
+# Servlet Lifecycle Methods
 ![](assets/lifecycle.png)
 
-## ServletContext VS ServletConfig
+# ServletContext VS ServletConfig
 ![](assets/diff.png)
 
-## Servlet Annotations
-# Annotations can replace equivalent XML configuration in the web deployment descriptor file (web.xml) such as servlet declaration and servlet mapping. Servlet containers will process the annotated classes at deployment time.
+# Servlet Annotations
+## Annotations can replace equivalent XML configuration in the web deployment descriptor file (web.xml) such as servlet declaration and servlet mapping. Servlet containers will process the annotated classes at deployment time.
 
+```java
 package com.example;
 
 import java.io.IOException;
@@ -33,3 +34,4 @@ public class AddServlet extends HttpServlet {
         res.sendRedirect("sq");
     }
 }
+```
