@@ -4,3 +4,6 @@
 
 ## Servlet Lifecycle Methods
 ![](assets/lifecycle.png)
+
+## ServletContext VS ServletConfig
+![](assets/diff.png)
