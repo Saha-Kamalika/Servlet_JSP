@@ -39,10 +39,10 @@ public class AddServlet extends HttpServlet {
 # Why JSP ?
 ## JSP (JavaServer Pages) is used in web development for generating dynamic content by combining HTML and Java code. Key reasons include:
 
-*Separation of Concerns: JSP keeps HTML for presentation and Java for business logic separate, making it easier to maintain.
-*Dynamic Content: It generates content dynamically based on backend data or user input.
-*Java Integration: Seamlessly works with Java EE technologies like Servlets and JDBC.
+* Separation of Concerns: JSP keeps HTML for presentation and Java for business logic separate, making it easier to maintain.
+* Dynamic Content: It generates content dynamically based on backend data or user input.
+* Java Integration: Seamlessly works with Java EE technologies like Servlets and JDBC.
 *Reusability: Custom tags and tag libraries promote reusable components.
-*Session Management: Handles user sessions efficiently.
-*Performance: JSP pages are compiled into fast Servlets.
-*Platform Independence: JSP is platform-independent, like Java.
+* Session Management: Handles user sessions efficiently.
+* Performance: JSP pages are compiled into fast Servlets.
+* Platform Independence: JSP is platform-independent, like Java.
