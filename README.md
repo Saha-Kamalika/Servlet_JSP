@@ -46,3 +46,5 @@ public class AddServlet extends HttpServlet {
 * Session Management: Handles user sessions efficiently.
 * Performance: JSP pages are compiled into fast Servlets.
 * Platform Independence: JSP is platform-independent, like Java.
+
+# How are JSP translated to Servlets
