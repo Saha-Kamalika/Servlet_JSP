@@ -42,7 +42,7 @@ public class AddServlet extends HttpServlet {
 * Separation of Concerns: JSP keeps HTML for presentation and Java for business logic separate, making it easier to maintain.
 * Dynamic Content: It generates content dynamically based on backend data or user input.
 * Java Integration: Seamlessly works with Java EE technologies like Servlets and JDBC.
-*Reusability: Custom tags and tag libraries promote reusable components.
+* Reusability: Custom tags and tag libraries promote reusable components.
 * Session Management: Handles user sessions efficiently.
 * Performance: JSP pages are compiled into fast Servlets.
 * Platform Independence: JSP is platform-independent, like Java.
