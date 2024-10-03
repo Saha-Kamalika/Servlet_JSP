@@ -48,3 +48,10 @@ public class AddServlet extends HttpServlet {
 * Platform Independence: JSP is platform-independent, like Java.
 
 # How are JSP translated to Servlets
+* Servlets are better for logic writing
+* JSP is better when some output is to be displayed
+## Tags in JSP
+* <%@ page import="java.util.Date" %>  -> Directive tag
+* <%! %> -> Declarative tag (section outside of the service method, used for declaring variables)
+* <% %> -> Scriplet 
+* <%= %> -> Expression (for printing)
