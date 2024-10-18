@@ -55,3 +55,12 @@ public class AddServlet extends HttpServlet {
 * <%! %> -> Declarative tag (section outside of the service method, used for declaring variables)
 * <% %> -> Scriplet 
 * <%= %> -> Expression (for printing)
+
+## Builtin Objects in JSP
+* request (HttpServletRequest)
+* response (HttpServletResponse)
+* pageContext (PageContext)
+* out (JspWriter) ~ PrintWriter Object
+* session (HttpSession)
+* application (ServletContext)
+* config (ServletConfig)
